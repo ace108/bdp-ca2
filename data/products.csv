@@ -1,0 +1,51 @@
+"productid","productname","productprice","productcategory"
+1,"Castor Sugar",3.3,"Sugar"
+2,"Icing Sugar",3.3,"Sugar"
+3,"Brown Sugar",3.8,"Sugar"
+4,"Self-raising Flour",5.0,"Flour"
+5,"Bread Flour",6.5,"Flour"
+6,"Wholemeal Flour",6.5,"Flour"
+7,"Sago Flour",1.8,"Flour"
+8,"Corn Flour",1.45,"Flour"
+9,"Baking Powder",1.25,"Baking Ingredients"
+10,"Instant Yeast",1.75,"Baking Ingredients"
+11,"Cream of Tartar",3.0,"Baking Ingredients"
+12,"Bicarbonate of Soda",1.1,"Baking Ingredients"
+13,"Green Tea Powder",3.8,"Baking Ingredients"
+14,"Gelatin Powder",2.5,"Baking Ingredients"
+15,"Red Candy Coating",9.5,"Candy Coating"
+16,"Green Candy Coating",9.5,"Candy Coating"
+17,"Pink Candy Coating",9.5,"Candy Coating"
+18,"White Candy Coating",8.0,"Candy Coating"
+19,"Black Candy Coating",9.9,"Candy Coating"
+20,"Liquid Food Coloring (Red Cream)",1.65,"Flavours and Colors"
+21,"Liquid Food Coloring (Green Cream)",1.65,"Flavours and Colors"
+22,"Liquid Food Coloring (Blue Cream)",1.65,"Flavours and Colors"
+23,"Liquid Food Coloring (Red)",1.1,"Flavours and Colors"
+24,"Liquid Food Coloring (Green)",1.1,"Flavours and Colors"
+25,"Liquid Food Coloring (Blue)",1.1,"Flavours and Colors"
+26,"Lotus Paste",16.5,"Pastes and Fillings"
+27,"Blueberry Pie Filling",3.8,"Pastes and Fillings"
+28,"Strawberry Pie Filling",3.8,"Pastes and Fillings"
+29,"Mango Puree",3.0,"Pastes and Fillings"
+30,"Red Bean Paste",9.5,"Pastes and Fillings"
+31,"Pineapple Paste",5.0,"Pastes and Fillings"
+32,"Cupcake Case (Balloon)",5.55,"Baking Cases"
+33,"Cupcake Case (Floral)",5.55,"Baking Cases"
+34,"Cupcake Case (Stripes)",5.55,"Baking Cases"
+35,"Cupcake Case (Hearts)",5.55,"Baking Cases"
+36,"Cupcake Case (Teddy)",5.55,"Baking Cases"
+37,"Cupcake Case (Dots)",5.55,"Baking Cases"
+38,"Mini Cups (Red)",2.5,"Baking Cases"
+39,"Mini Cups (Blue)",2.5,"Baking Cases"
+40,"Mini Cups (Yellow)",2.5,"Baking Cases"
+41,"Mini Cups (Green)",2.5,"Baking Cases"
+42,"Cake Ring (6 inches)",4.0,"Bakeware"
+43,"Cake Ring (7 inches)",5.3,"Bakeware"
+44,"Cake Ring (8 inches)",7.5,"Bakeware"
+45,"Cake Ring (9 inches)",8.4,"Bakeware"
+46,"Desiccated Coconut",1.4,"Dried Food and Nuts"
+47,"Sunflower Seeds",1.7,"Dried Food and Nuts"
+48,"Walnuts",3.7,"Dried Food and Nuts"
+49,"Sultanas",1.9,"Dried Food and Nuts"
+50,"Almonds",3.8,"Dried Food and Nuts"
